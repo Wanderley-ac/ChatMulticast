@@ -1,0 +1,2 @@
+2025-06-08 08:53:35 [main] INFO  c.mycompany.multicastchat.udpClient - Starting UDP Client
+2025-06-08 08:53:44 [main] ERROR c.mycompany.multicastchat.udpClient - Invalid IP Address [m5]
